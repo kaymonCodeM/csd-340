@@ -1,2 +1,4 @@
-# csd-340
-340 Class projects HTML &amp; CSS
+# CSD 340 Web Development with HTML and CSS
+## Contributors
+* Chris Soriano
+* Kaymon McCain
